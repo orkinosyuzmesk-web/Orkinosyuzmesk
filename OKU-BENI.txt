@@ -1,0 +1,17 @@
+ORKINOS SİTESİ - GITHUB'A YÜKLEME
+
+1) github.com'da hesap aç (ücretsiz). Sağ üstte + > New repository.
+   Adı: orkinos  |  Public seç  |  Create repository.
+2) "uploading an existing file" bağlantısına bas.
+   Bu klasörün İÇİNDEKİ her şeyi sürükle: index.html, config.js, .nojekyll ve img klasörü.
+   Commit changes'a bas.
+3) Settings > Pages > Source: "Deploy from a branch" > Branch: main, klasör: / (root) > Save.
+4) 1-2 dakika sonra sayfanın üstünde adresin çıkar:
+   https://KULLANICIADIN.github.io/orkinos/
+   Bu linki Instagram biyografisine koyabilirsin.
+
+SİTEYİ GÜNCELLEMEK
+- GitHub'da config.js dosyasını aç > kalem simgesi > yazıları değiştir > Commit changes.
+- Fotoğraf eklemek için img klasörüne Add file > Upload files de, sonra config.js'te adını yaz.
+- Değişiklik 1-2 dakikada herkese yansır.
+- Telefonda da yapılır: GitHub uygulamasından veya tarayıcıdan "Masaüstü sitesi" ile.
